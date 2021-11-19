@@ -1,5 +1,5 @@
 - 👋 Hi, I’m HariVignesh Gomathi Sankara Guru
-- 👀 I’m interested in Coding, Coding ... wait for it ... coding
+- 👀 I’m interested in Coding, Coding ... wait for it ... Coding
 - 🌱 I’m currently learning JAVA(constant updation), Spring Framework, Systems Programming with C
 - 📫 How to reach me hvignesh69@gmail.com
 
